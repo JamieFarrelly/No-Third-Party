@@ -10,6 +10,8 @@ The website was inspired by [this tweet](https://twitter.com/jessysaurusrex/stat
 
 Feel free to add more sites to the list or even make the site better. The site was built using a one page bootstrap template which is also available on [Github](https://github.com/BlackrockDigital/startbootstrap-creative)
 
+The site is hosted on Github itself, using GitHub Pages. You can see what it looks like [here](https://jamiefarrelly.github.io/No-Third-Party/).
+
 ## Get in Touch
 
 Feel free to tweet me [@Jamie_Farrelly](https://twitter.com/Jamie_Farrelly)
