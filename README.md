@@ -14,4 +14,4 @@ The site is hosted on Github itself, using GitHub Pages. You can see what it loo
 
 ## Get in Touch
 
-Feel free to tweet me [@Jamie_Farrelly](https://twitter.com/Jamie_Farrelly)
+Tweet me [@Jamie_Farrelly](https://twitter.com/Jamie_Farrelly)
